@@ -1,0 +1,32 @@
+.home-heading h1 {
+  font-size: 3.5em;
+  color: #000;
+}
+
+.home-heading p {
+  font-size: 1.2em;
+  color: #000;
+}
+
+
+.home {
+  text-align: center;
+  color: #000;
+  padding-top: 100px;
+  background: #EEAECA;
+  background: radial-gradient(circle,rgba(238, 174, 202, 1) 40%, rgba(148, 187, 233, 1) 100%);
+}
+
+.home-heading {
+  margin: 10px;
+}
+
+section {
+  scroll-margin-top: 80px;
+}
+
+@media (max-width: 576px) {
+  .home-heading h1 {
+    display: none;
+  }
+}

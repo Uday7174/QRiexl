@@ -1,0 +1,94 @@
+.footer {
+  width: 100vw;
+  position: relative;
+  left: calc(-50vw + 50%);
+  background-color: #222;
+  padding: 20px 40px;
+}
+
+.footer-content {
+  margin: auto;
+  color: #fff;
+  text-align: center;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  gap: 20px;
+}
+
+.footer-about p {
+  line-height: 1.6em;
+  color: #ccc;
+}
+
+.footer-about p:last-child {
+  font-size: 0.9em;
+  color: #aaa;
+}
+
+
+.footer-links {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 10px;
+}
+
+.footer-icon {
+  height: 50px;
+  width: 50px;
+  margin: 0 15px;
+  background-color: aliceblue;
+  border-radius: 15px;
+  border: 1px solid aliceblue;
+  transition: all ease 0.4s;
+  box-shadow: 0 0 5px #00ffff ;
+}
+
+.footer-icon:hover {
+  transform: scale(1.1);
+  box-shadow: 0 0 10px #00ffff , 0 0 20px #00ffff,0 0 30px #00ffff;
+}
+
+.footer-contact form {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  max-width: 300px;
+  margin: auto;
+}
+
+.footer-contact input,
+.footer-contact textarea {
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  outline: none;
+}
+
+.footer-contact button {
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  background-color: #00ffff;
+  color: #222;
+  font-weight: bold;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.footer-contact button:hover {
+  background-color: #00cccc;
+}
+
+@media (max-width: 576px) {
+  .footer-content{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0px;
+  }
+  .footer{
+    padding: 20px;
+  }
+}
