@@ -18,6 +18,7 @@ Check out the live version of this project here:
 ## Contribution
 
 Contributions are welcome!
+
 Feel free to:
 - Report bugs
 - Request features
