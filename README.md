@@ -9,7 +9,7 @@ QRiexl is a simple, fast, and user-friendly QR Code generator that lets you crea
 - Clean and intuitive interface
 - Lightweight and fast
 
-# Contribution
+## Contribution
 
 Contributions are welcome!
 
@@ -18,10 +18,10 @@ Contributions are welcome!
 - Request features
 - Submit pull requests
 
-# Why QRiexl?
+## Why QRiexl?
 
 QRiexl is perfect for personal and professional use — whether you want to share a link easily, print a QR for an event, or generate codes faster without complicated tools.
 
-# Acknowledgements
+## Acknowledgements
 
 Thanks for checking out QRiexl — happy coding and QR generating! 
