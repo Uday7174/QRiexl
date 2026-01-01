@@ -18,11 +18,11 @@ Check out the live version of this project here:
 ## Contribution
 
 Contributions are welcome!
-
-- Feel free to:
+Feel free to:
 - Report bugs
 - Request features
 - Submit pull requests
+- Suggest new features
 
 ## Why QRiexl?
 
