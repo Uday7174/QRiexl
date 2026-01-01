@@ -4,7 +4,7 @@ QRiexl is a simple, fast, and user-friendly QR Code generator that lets you crea
 
 ## Live Demo
 
-[Link Text](https://uday7174.github.io/QRiexl)
+Visit my [GitHub Profile](https://uday7174.github.io/QRiexl)
 
 ## Features
 
