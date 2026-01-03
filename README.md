@@ -35,3 +35,20 @@ QRiexl is perfect for personal and professional use — whether you want to shar
 ## Acknowledgements
 
 Thanks for checking out QRiexl — happy coding and QR generating! 
+
+##  Installation
+
+Follow these steps to set up the project locally:
+
+```bash
+# Clone the repository
+git clone https://github.com/uday7174/QRiexl.git
+
+# Navigate to the project directory
+cd QRiexl
+
+# Install dependencies
+npm install
+
+# Start the development server
+npm start
