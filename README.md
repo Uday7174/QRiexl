@@ -43,10 +43,10 @@ Follow these steps to set up the project locally:
 
 ```bash
 # Clone the repository
-git clone https://github.com/sadikxdev/QReatify.git
+git clone https://github.com/uday7174/QRiexl.git
 
 # Navigate to the project directory
-cd QReatify
+cd QRiexl
 
 # Install dependencies
 npm install
