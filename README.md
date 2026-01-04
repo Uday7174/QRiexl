@@ -43,7 +43,7 @@ Follow these steps to set up the project locally:
 
 ```bash
 # Clone the repository
-git clone https://github.com/uday7174/QRiexl.git
+git clone https://github.com/Uday7174/QRiexl.git
 
 # Navigate to the project directory
 cd QRiexl
