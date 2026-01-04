@@ -2,8 +2,9 @@
 
 QRiexl is a simple, fast, and user-friendly QR Code generator that lets you create high-quality QR codes from text, URLs, or any custom data. No backend required — generates codes instantly right in your browser.
 
-![QRiexl Logo](https://github.com/Uday7174/QRiexl/blob/main/public/images/Logo.png)
-
+<p align="center">
+  <img src="./public/images/Logo.png" alt="QRiexl logo" width="500">
+</p>
 
 ## Live Demo
 
